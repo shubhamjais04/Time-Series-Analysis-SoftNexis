@@ -1,4 +1,4 @@
-# Task 3: Time Series Analysis
+# Task 2: Time Series Analysis
 
 **Internship:** Soft Nexis Technology  
 **Intern Name:** Shubham Jaiswal  
