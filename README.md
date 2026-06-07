@@ -1,9 +1,9 @@
 # Task 3: Time Series Analysis
 
-**Internship:** Soft Nexis Technology
-**Intern Name:** Shubham Jaiswal
-**Intern ID:** SN1001074
-**Domain:** Data Science & Machine Learning Using Python
+**Internship:** Soft Nexis Technology  
+**Intern Name:** Shubham Jaiswal  
+**Intern ID:** SN1001074  
+**Domain:** Data Science & Machine Learning Using Python  
 
 ---
 
