@@ -104,7 +104,7 @@ jupyter notebook Task2_Time_Series_Analysis.ipynb
 
 ## 👨‍💻 Author
 
-**Shubham Jaiswal**
+**Shubham Jaiswal**  
 *Time series analyst | Extracting patterns from temporal data to forecast what comes next*
 
 ---
